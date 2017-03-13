@@ -46,7 +46,7 @@
     "uglify-js": "^2.8.5",
     "uuid": "^3.0.0",
     "winston": "^2.0.0",
-    "ws": "^2.0.0"
+    "ws": "^2.2.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
